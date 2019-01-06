@@ -1,2 +1,2 @@
 # teststuffs
-This is a repository for testing stuffs
+THIS IS A DUMMY REPOSITORY FOR TESTING PURPOSE
